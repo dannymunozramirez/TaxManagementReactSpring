@@ -1,0 +1,7 @@
+{
+  "name": "tax_man_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
